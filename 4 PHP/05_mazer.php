@@ -1,0 +1,4 @@
+unlink
+
+
+unlink($arquivo.txt);
